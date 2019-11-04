@@ -12,7 +12,7 @@ from models import Location
 @app.route('/api/run', methods=['POST'])
 def run():                                                                                                                              
     # Parse CLODUAMQP_URL (fallback to localhost)
-    url = os.environ.get('CLOUDAMQP_URL',"""amqp://""")
+    url = os.environ.get('CLOUDAMQP_URL',"""amqp://yibeuqjs:K_HEZUkbNeFcsrLJbC5XWgpglEUkx0-V@prawn.rmq.cloudamqp.com/yibeuqjs""")
     params = pika.URLParameters(url)
     params.socket_timeout = 5
     connection = pika.BlockingConnection(params) # Conectando ao CloudAMQP
