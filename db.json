@@ -1,46 +1,46 @@
 {
-    "orders": [
+    "07-12-2019": [
         {
             "id": 11111,
             "contact_name": "Danielli",
             "contact_phone": "+554185157624",
             "description": "Azulejo Branco",
-            "delivery_date": "07/12/2019 11:00"
+            "delivery_date": "07-12-2019 11:00"
         },
         {
             "id": 11112,
             "contact_name": "Eduardo",
             "contact_phone": "+554185157624",
             "description": "Azulejo Vermelho",
-            "delivery_date": "07/12/2019 14:30"
+            "delivery_date": "07-12-2019 14:30"
         },
         {
             "id": 11113,
             "contact_name": "Carlos",
             "contact_phone": "+554185157624",
             "description": "Azulejo Azul",
-            "delivery_date": "07/12/2019 16:20"
+            "delivery_date": "07-12-2019 16:20"
         },
         {
             "id": 11114,
             "contact_name": "Aurelio",
             "contact_phone": "+554185157624",
             "description": "Azulejo Pequeno",
-            "delivery_date": "07/12/2019 11:11"
+            "delivery_date": "07-12-2019 11:11"
         },
         {
             "id": 11115,
             "contact_name": "Andrei",
             "contact_phone": "+554185157624",
             "description": "Azulejo Quadriculado",
-            "delivery_date": "07/12/2019 18:40"
+            "delivery_date": "07-12-2019 18:40"
         },
         {
             "id": 11116,
             "contact_name": "Matheus",
             "contact_phone": "+554185157624",
             "description": "Azulejo Verde",
-            "delivery_date": "07/12/2019 09:00"
+            "delivery_date": "07-12-2019 09:00"
         }
     ]
 }
