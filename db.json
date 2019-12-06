@@ -5,42 +5,42 @@
             "description": "Azulejo Branco",
             "contact_name": "Danielli",
             "contact_phone": "+554185157624",
-            "delivery_date": "07-12-2019 11:00"
+            "delivery_date": "2019-12-07 11:00:00Z"
         },
         {
             "order_number": 11112,
             "description": "Azulejo Vermelho",
             "contact_name": "Eduardo",
             "contact_phone": "+554185157624",
-            "delivery_date": "07-12-2019 14:30"
+            "delivery_date": "2019-12-07 18:00:00Z"
         },
         {
             "order_number": 11113,
             "description": "Azulejo Azul",
             "contact_name": "Carlos",
             "contact_phone": "+554185157624",
-            "delivery_date": "07-12-2019 16:20"
+            "delivery_date": "2019-12-07 13:20:00Z"
         },
         {
             "order_number": 11114,
             "description": "Azulejo Pequeno",
             "contact_name": "Aurelio",
             "contact_phone": "+554185157624",
-            "delivery_date": "07-12-2019 11:11"
+            "delivery_date": "2019-12-07 16:20:00Z"
         },
         {
             "order_number": 11115,
             "description": "Azulejo Quadriculado",
             "contact_name": "Andrei",
             "contact_phone": "+554185157624",
-            "delivery_date": "07-12-2019 18:40"
+            "delivery_date": "2019-12-07 11:11:00Z"
         },
         {
             "order_number": 11116,
             "description": "Azulejo Verde",
             "contact_name": "Matheus",
             "contact_phone": "+554185157624",
-            "delivery_date": "07-12-2019 09:00"
+            "delivery_date": "2019-12-07 09:41:00Z"
         }
     ]
 }
