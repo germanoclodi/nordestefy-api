@@ -1,20 +1,14 @@
 {
-    "24-12-2019": [
-        {
-            "order_number": 21111,
-            "description": "Azulejo Branco",
-            "contact_name": "Matheus",
-            "contact_phone": "+554195157624",
-            "delivery_date": "2019-12-20 11:00:00Z",
-            "contact_address": "Rua Primeira, 1234"
-        },
-        {
-            "order_number": 21112,
-            "description": "Azulejo Vermelho",
-            "contact_name": "Germano",
-            "contact_phone": "+554185157624",
-            "delivery_date": "2019-12-20 18:00:00Z",
-            "contact_address": "Rua Segunda, 5678"
-        }
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
