@@ -5,7 +5,7 @@
             "description": "Azulejo Branco",
             "contact_name": "Matheus Bonato",
             "contact_phone": "+554195157624",
-            "delivery_date": "2019-12-20 11:00:00Z",
+            "delivery_date": "2019-12-23 11:00:00Z",
             "contact_address": "Rua Primeira, 1234"
         },
         {
@@ -13,7 +13,7 @@
             "description": "Azulejo Vermelho",
             "contact_name": "Germano Lodi",
             "contact_phone": "+554185157624",
-            "delivery_date": "2019-12-20 18:00:00Z",
+            "delivery_date": "2019-12-23 18:00:00Z",
             "contact_address": "Rua Segunda, 5678"
         }
     ],
@@ -23,7 +23,7 @@
             "description": "Azulejo Branco",
             "contact_name": "Matheus Bonato",
             "contact_phone": "+554195157624",
-            "delivery_date": "2019-12-20 11:00:00Z",
+            "delivery_date": "2019-12-24 11:00:00Z",
             "contact_address": "Rua Primeira, 1234"
         },
         {
@@ -31,7 +31,7 @@
             "description": "Azulejo Vermelho",
             "contact_name": "Germano Lodi",
             "contact_phone": "+554185157624",
-            "delivery_date": "2019-12-20 18:00:00Z",
+            "delivery_date": "2019-12-24 18:00:00Z",
             "contact_address": "Rua Segunda, 5678"
         }
     ],
@@ -41,7 +41,7 @@
             "description": "Azulejo Branco",
             "contact_name": "Matheus Bonato",
             "contact_phone": "+554195157624",
-            "delivery_date": "2019-12-20 11:00:00Z",
+            "delivery_date": "2019-12-25 11:00:00Z",
             "contact_address": "Rua Primeira, 1234"
         },
         {
@@ -49,7 +49,7 @@
             "description": "Azulejo Vermelho",
             "contact_name": "Germano Lodi",
             "contact_phone": "+554185157624",
-            "delivery_date": "2019-12-20 18:00:00Z",
+            "delivery_date": "2019-12-25 18:00:00Z",
             "contact_address": "Rua Segunda, 5678"
         }
     ]
