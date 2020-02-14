@@ -1,32 +1,32 @@
 {
     "getAllMetrics": [
         {
-      "ID" : "42069",
-      "Customer": 'Votorantim',
-      "Project": 'Loss Prevention',
-      "Type": 'Detailed Throughput',
-      "Generated At": '2020-02-14'
-    },
-    {
-      "ID" : "42070",
-      "Customer": 'Votorantim',
-      "Project": 'Loss Prevention',
-      "Type": 'Monte Carlo Simulation',
-      "Generated At": '2020-02-14'
-    },
-    {
-      "ID" : "42071",
-      "Customer": 'Votorantim',
-      "Project": 'Loss Prevention',
-      "Type": 'Cumulative Flow Diagram',
-      "Generated At": '2020-02-14'
-    },
-    {
-      "ID" : "42072",
-      "Customer": 'Votorantim',
-      "Project": 'Loss Prevention',
-      "Type": 'Hours Spent',
-      "Generated At": '2020-02-14'
-    }
+            "ID" : "42069",
+            "Customer": "Votorantim",
+            "Project": "Loss Prevention",
+            "Type": "Detailed Throughput",
+            "Generated At": "2020-02-14"
+        },
+        {
+            "ID" : "42070",
+            "Customer": "Votorantim",
+            "Project": "Loss Prevention",
+            "Type": "Monte Carlo Simulation",
+            "Generated At": "2020-02-14"
+        },
+        {
+            "ID" : "42071",
+            "Customer": "Votorantim",
+            "Project": "Loss Prevention",
+            "Type": "Cumulative Flow Diagram",
+            "Generated At": "2020-02-14"
+        },
+        {
+            "ID" : "42072",
+            "Customer": "Votorantim",
+            "Project": "Loss Prevention",
+            "Type": "Hours Spent",
+            "Generated At": "2020-02-14"
+        }
     ]
 }
