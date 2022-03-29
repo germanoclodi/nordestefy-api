@@ -36,7 +36,7 @@ msrestazure==0.6.2
 numpy==1.17.2
 oauthlib==3.1.0
 pandas==0.25.1
-paramiko==2.6.0
+paramiko==2.10.1
 pbr==5.4.3
 pika==1.1.0
 portalocker==1.5.1
